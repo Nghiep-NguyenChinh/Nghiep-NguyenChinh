@@ -1,7 +1,7 @@
 ### Hi there, I'm Nghiep  👋 - aka [Karim](https://www.youtube.com/channel/UCUpDXziiAqnD8R9TWbt0oMg) 
 - 🔭 I'm passionate about Computer vision(CV), AI solutions and Machine learning
 - 🌱 I'm improving my skills and looking for a job in AI
-- ⚡ Fun fact: I'm crazy about Iron Man 😄😄😄😄
+- ⚡ Fun fact: I'm crazy about Iron Man and CR7 😄😄😄😄
 
 
 
