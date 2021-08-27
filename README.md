@@ -1,11 +1,16 @@
-### Hi there 👋
+### Hi there, I'm Nghiep  👋 - aka [Karim](https://www.youtube.com/channel/UCUpDXziiAqnD8R9TWbt0oMg) 
+- 🔭 I'm passionate about Computer vision(CV), AI solutions and Machine learning
+- 🌱 I'm improving my skills and looking for a job in AI
+- ⚡ Fun fact: I'm crazy about Iron Man 😄😄😄😄
+
+
 
 <!--
 **Nghiep-NguyenChinh/Nghiep-NguyenChinh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I'm passionate about Computer vision(CV), AI solutions and Machine learning
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
